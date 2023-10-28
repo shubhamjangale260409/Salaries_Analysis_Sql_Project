@@ -1,5 +1,5 @@
 -- salaries dataset questions:
-
+create database data_new
 use data_new;
 -- 1	Show all columns and rows in the table.
 select * from salaries;
